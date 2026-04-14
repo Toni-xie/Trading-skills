@@ -1,11 +1,18 @@
-# Binance代币分析工具 - 使用说明
+# Binance代币分析Skills - 使用说明
+## 个人安装（所有项目可用）
+unzip binance-token-analysis.skill -d ~/.claude/skills/
+
+## 或者项目级安装（只在当前项目生效）
+unzip binance-token-analysis.skill -d .claude/skills/
+
+# Binance代币分析脚本 - 使用说明
 
 ## 🚀 快速开始
 
 只需运行一个命令：
 
 ```bash
-python main.py
+python Future_Alpha_analysis.py
 ```
 
 ## 📋 功能说明
