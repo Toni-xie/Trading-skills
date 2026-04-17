@@ -1,3 +1,8 @@
+# 新增山寨赛道龙头分析脚本
+在 data文件夹24h_change_table.xlsx中添加想要抓取信息的代币
+脚本自动化计算过去24小时和7天价格和OI变化幅度
+运行extract_24h_change.py即可
+
 # Binance代币分析Skills - 使用说明
 ## 个人安装（所有项目可用）
 unzip binance-token-analysis.skill -d ~/.claude/skills/
